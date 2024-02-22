@@ -30,4 +30,4 @@ Ox29DC Multichain Drainer
 
 ♦️ NFT's withdrawal methods: Sign, Transfer and SetApprovalForAll.
 
-For buy Full script : https://drainershop.shop
+For buy Full script : https://drainerscript.shop
